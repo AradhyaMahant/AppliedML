@@ -2,4 +2,4 @@
 
 Applications of machine learning.....</br>
 
-how it is useful in modern days.
+how ML is useful in modern days.
